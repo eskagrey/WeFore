@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeFore</string>
+    <string name="reg">Already register?  </string>
+    <string name="login">Not register yet?  </string>
+</resources>
